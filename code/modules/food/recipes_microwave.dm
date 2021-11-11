@@ -2,14 +2,14 @@
 // see code/datums/recipe.dm
 
 
-/* No telebacon. just no...
+/* No telebacon. just no... */
 /datum/recipe/telebacon
 	items = list(
 		/obj/item/reagent_containers/food/snacks/meat,
 		/obj/item/device/assembly/signaler
 	)
 	result = /obj/item/reagent_containers/food/snacks/telebacon
-
+/*
 I said no!
 /datum/recipe/syntitelebacon
 	items = list(
