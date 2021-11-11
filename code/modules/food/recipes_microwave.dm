@@ -394,7 +394,7 @@ I said no!
 	)
 	result = /obj/item/reagent_containers/food/snacks/xemeatpie
 
-/datum/recipe/pie
+/datum/recipe/normal pie
 	fruit = list("banana" = 1)
 	reagents = list("sugar" = 5)
 	items = list(
